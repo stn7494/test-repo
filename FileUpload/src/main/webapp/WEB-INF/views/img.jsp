@@ -11,5 +11,6 @@
 <img alt="" src="/file/resources/img/chun.png">
 <img alt="" src="/file/resources/img/chun2.jpg">
 <img alt="" src="/file/resources/img/chun3.jpg">
+<h1>테스트중입니다.</h1>
 </body>
 </html>
